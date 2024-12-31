@@ -1,11 +1,13 @@
 body {
+    background-color: lightcoral;
+    margin: 0;
     font-family: Arial, Helvetica, sans-serif;
-    background-color: rgb(16, 46, 85);
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100vh;
-    margin: 0;
+    height: 100vh; /* Garante que o corpo ocupa a altura total da janela */
 }
 
-.login-
+.login {
+   
+}
