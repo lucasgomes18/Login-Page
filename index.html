@@ -3,26 +3,33 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login Moderno</title>
     <link rel="stylesheet" href="style.css">
-    <title>Login</title>
+    <script src="script.js" defer></script>
 </head>
 <body>
-    <section>
+    <div class="background-animation">
+        <div class="circle"></div>
+        <div class="circle"></div>
+        <div class="circle"></div>
+    </div>
+
     <div class="login">
-        <form class="login-text">
-            <h2>Login</h2>
+        <h2>Login</h2>
+        <form>
             <div class="form-group">
                 <label for="username">Email</label>
                 <input type="text" id="username" name="username" placeholder="Digite seu email">
+                <small class="error" id="emailError" style="color: red; display: none;">Por favor, insira um email válido.</small>
             </div>
             <div class="form-group">
                 <label for="password">Senha</label>
                 <input type="password" id="password" name="password" placeholder="Digite sua senha">
+                <small class="error" id="passwordError" style="color: red; display: none;">A senha deve ter no mínimo 8 caracteres.</small>
             </div>
             <button type="submit">Login</button>
             <p class="signup-text">Nao tem uma conta? <a href="#">Criar Conta</a></p>
         </form>
     </div>
-   </section>
 </body>
 </html>
