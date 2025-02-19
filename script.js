@@ -10,7 +10,6 @@ document.addEventListener("DOMContentLoaded", function () {
 
         let valid = true;
 
-        // Email validation
         const emailPattern = /^[^\\s@]+@[^\\s@]+\\.[^\\s@]+$/;
         if (!emailPattern.test(emailInput.value)) {
             emailError.style.display = "block";
@@ -19,7 +18,7 @@ document.addEventListener("DOMContentLoaded", function () {
             emailError.style.display = "none";
         }
 
-        // Password validation
+
         if (passwordInput.value.length < 8) {
             passwordError.style.display = "block";
             valid = false;
