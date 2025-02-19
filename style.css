@@ -11,7 +11,7 @@ body {
     overflow: hidden;
 }
 
-/* Animação de fundo */
+
 .background-animation {
     position: absolute;
     top: 0;
@@ -58,7 +58,7 @@ body {
     }
 }
 
-/* Estilo do container de login */
+
 .login {
     background: #deb069;
     border-radius: 20px;
