@@ -2,7 +2,7 @@
 
 **`Site simples para Login - HTML, CSS, JS`**
 
-<img src= "blob:https://web.whatsapp.com/2663f631-ae15-41cb-b1af-3b512601baf3">
+<img src= "https://ibb.co/JjdrK8LJ">
 
 <center>
 
