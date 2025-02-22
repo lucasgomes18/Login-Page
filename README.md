@@ -2,7 +2,7 @@
 
 **`Site simples para Login - HTML, CSS, JS`**
 
-<img src= "https://media.discordapp.net/attachments/1307147177453162569/1323595211254796338/6835B980-F898-4B4D-9F61-2796DB1A0BA1.png?ex=67751599&is=6773c419&hm=4d827e4a973a14d9c07a1df2a1c3bd56130c1c35b48a429371bbe00b3981252a&=&format=webp&quality=lossless&width=768&height=377">
+<img src= "blob:https://web.whatsapp.com/2663f631-ae15-41cb-b1af-3b512601baf3">
 
 <center>
 
